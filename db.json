@@ -1,33 +1,47 @@
 {
     "bg": "https://cdn.pixabay.com/photo/2017/08/20/15/11/plane-2662098_1280.jpg",
     "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "description": "Teste os seus conhecimentos sobre Aviação e vamos ver quantos perguntas você conhece acertar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://media.giphy.com/media/TgJ0KKEY8HByASy6Jt/giphy.gif",
+        "title": "A ordem de prioridade das seguintes mensagens no serviço movel aeronáutico é?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Mensagem de segurança de vôo, mensagem metereorológica, mensagem de regularidade de vôo",
+          "Mensagem metereorológica, mensagem de localização de direção, mensagem de segurança de vôo",
+          "Mensagem de regularidade de voo, mensagem de socorro, mensagem meteorológica.",
+          "Mensagem de segurança de vôo, mensagem de localização de direção, mensagem de urgencia"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://media.giphy.com/media/Btn42lfKKrOzS/giphy.gif",
+        "title": "As mensagens de segurança de vôo são:",
         "description": "Faz tempo em haha",
-        "answer": 0,
+        "answer": 2,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Mensagens relacionadas à localização de direção;",
+           "Mensagens de operação relacionadadas a pousos não rotineiros;",
+           "Mensagens de controle de tráfego aéreo"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/3oxRmvU3GAJay6F60g/giphy.gif",
+        "title": "Que abreviatura usada para 'Tempo Universal Coordenado'(em Ingles)",
+        "description":"Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          "TUC",
+          "GMT",
+          "UTC"
         ]
       }
     ],
     "external": [
-      ""
+      "https://quiz-valorant.johnatanivini.vercel.app/",
+      "https://onepiece-quiz-imersao-react-next-js.marioandre01.vercel.app/",
+      "https://quiz-interstellar.dotjorge.vercel.app/"
     ],
     "theme": {
       "colors": {
